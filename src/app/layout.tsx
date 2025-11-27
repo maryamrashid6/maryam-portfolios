@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import Navbar from "@/features/Navbar/navbar";
+import Navbar from "@/features/Navbar";
 import { Sora } from "next/font/google";
 import "./globals.css";
 
-import Footer from "@/features/Footer/footer";
+import Footer from "@/features/Footer";
 const sora = Sora({
   subsets: ["latin"],
   weight: ["400", "600", "700", "800"],
