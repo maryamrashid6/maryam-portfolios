@@ -87,21 +87,6 @@ The portfolio is built with a modular structure, making it easy to customize:
 - Add new sections by creating feature components in the `features/` directory
 - Update skills and experience in their respective component files
 
-## 🚢 Deployment
-
-The easiest way to deploy this Next.js app is using [Vercel](https://vercel.com):
-
-1. Push your code to GitHub
-2. Import your repository on Vercel
-3. Vercel will automatically detect Next.js and configure the build settings
-4. Deploy!
-
-For more deployment options, check out the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying).
-
-## 📝 License
-
-This project is private and personal.
-
 ## 👤 Author
 
 **Maryam Rashid**
