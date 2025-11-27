@@ -1,0 +1,1 @@
+export { default as AboutMeImg } from "./aboutMeImg.svg";
